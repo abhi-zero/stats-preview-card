@@ -254,6 +254,7 @@ body {
     }
 
     .lower-section {
+        width: 100%;
         display: grid;
         gap: var(--mar-pad-gap-300);
         grid-template-columns: repeat(3, 1fr);
